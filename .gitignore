@@ -4,5 +4,6 @@ __pycache__/
 .venv/
 venv/
 .env
+.vscode/
 Thumbs.db
 .DS_Store
